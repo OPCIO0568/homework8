@@ -39,7 +39,7 @@ int main()
 	Node* head = NULL;
 	Node* ptr = NULL;	/* temp */
 
-	printf("[----- [KIMGEONWOO] [2021041010] -----]\n");
+	printf("[------ [KIMGEONWOO] [2021041010] ------]\n");
 
 	do{
 		printf("\n\n");
